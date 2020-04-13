@@ -60,6 +60,4 @@ typings/
 #nwb
 /coverage
 /demo/dist
-/es
-/lib
 /umd
